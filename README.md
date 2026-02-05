@@ -39,9 +39,9 @@ Todo el proceso se realiza en  la terminal  priorizando velocidad, claridad y co
 **Windows / Linux**
 
 ```bash
-git clone https://github.com/HEXNCOLOMBIA/MODULO-DOX-COLOMBIA.git
-cd DOX-BASE-2011-
-python orc_.py
+git clone https://github.com/HEXNCOLOMBIA/SISBEN-DOX-BASE-ACTUALIZADA-.git
+cd SISBEN-DOX-BASE-ACTUALIZADA-
+python sisben.py
 ```
 
 **Termux (Android)**
@@ -49,15 +49,15 @@ python orc_.py
 ```bash
 pkg update -y
 pkg install python git -y
-git clone https://github.com/HEXNCOLOMBIA/MODULO-DOX-COLOMBIA.git
-cd DOX-BASE-2011-
-python orc_.py
+git clone https://github.com/HEXNCOLOMBIA/SISBEN-DOX-BASE-ACTUALIZADA-.git
+cd SISBEN-DOX-BASE-ACTUALIZADA-
+python sisben.py
 ```
-**actualizar repo*
+**actualizar repositorio en caso de que haga actualizaciones**
 
 ```bash
 git pull
-python orc_.py
+python sisben.py
 ```
 
 ---
