@@ -40,21 +40,24 @@ Todo el proceso se realiza en  la terminal  priorizando velocidad, claridad y co
 ```bash
 git clone https://github.com/HEXNCOLOMBIA/SISBEN-DOX-BASE-ACTUALIZADA-.git
 cd SISBEN-DOX-BASE-ACTUALIZADA-
-python sisben.py
-📱 Termux (Android)
+python sisben.py```
+
+## 📱 Termux (Android)
+```bash
 pkg update -y
 pkg install python git -y
 git clone https://github.com/HEXNCOLOMBIA/SISBEN-DOX-BASE-ACTUALIZADA-.git
 cd SISBEN-DOX-BASE-ACTUALIZADA-
-python sisben.py
-🧭 Uso
+python sisben.py```
+
+### 🧭 Uso
 Al iniciar el sistema se mostrará un menú en consola:
 
 1 → Consulta por Cédula
 0 → Salir
 El sistema solicitará el dato correspondiente y mostrará el resultado completo en pantalla.
 
-📊 Resultados
+###📊 Resultados
 Información presentada en un solo bloque
 
 Campos vacíos marcados como NO DISPONIBLE
