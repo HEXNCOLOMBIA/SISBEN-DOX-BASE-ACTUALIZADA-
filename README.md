@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/HEXNCOLOMBIA/SISBEN-DOX-BASE-ACTUALIZADA-/main/assets/logo.jpg" width="380">
+  <img src="https://github.com/HEXNCOLOMBIA/SISBEN-DOX-BASE-ACTUALIZADA-/blob/main/assets/logo.png" width="380">
 </p>
 
 # 🕷️ SISBEN DOX –BUSQUDA AUTOMATIZADA 🕷️
