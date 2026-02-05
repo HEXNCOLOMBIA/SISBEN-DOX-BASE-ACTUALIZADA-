@@ -36,50 +36,62 @@ Todo el proceso se realiza en  la terminal  priorizando velocidad, claridad y co
 
 ## 🛠 Instalación
 
-### 🖥️ Windows / Linux
-```bash
-git clone https://github.com/HEXNCOLOMBIA/SISBEN-DOX-BASE-ACTUALIZADA-.git
-cd SISBEN-DOX-BASE-ACTUALIZADA-
-python sisben.py```
+**Windows / Linux**
 
-## 📱 Termux (Android)
+```bash
+git clone https://github.com/HEXNCOLOMBIA/MODULO-DOX-COLOMBIA.git
+cd DOX-BASE-2011-
+python orc_.py
+```
+
+**Termux (Android)**
+
 ```bash
 pkg update -y
 pkg install python git -y
-git clone https://github.com/HEXNCOLOMBIA/SISBEN-DOX-BASE-ACTUALIZADA-.git
-cd SISBEN-DOX-BASE-ACTUALIZADA-
-python sisben.py```
+git clone https://github.com/HEXNCOLOMBIA/MODULO-DOX-COLOMBIA.git
+cd DOX-BASE-2011-
+python orc_.py
+```
+**actualizar repo*
 
-### 🧭 Uso
-Al iniciar el sistema se mostrará un menú en consola:
+```bash
+git pull
+python orc_.py
+```
 
+---
+
+## 🧭 Uso
+
+Al iniciar el sistema aparecerá un menú en consola:
+
+```
 1 → Consulta por Cédula
 0 → Salir
-El sistema solicitará el dato correspondiente y mostrará el resultado completo en pantalla.
+```
 
-###📊 Resultados
-Información presentada en un solo bloque
+El sistema pedirá el dato correspondiente y mostrará el resultado completo en pantalla.
 
-Campos vacíos marcados como NO DISPONIBLE
+---
 
-Listado de campos faltantes al final
+## 📊 Resultados
 
-Indicación de consulta exitosa ✅
+- Los datos se muestran en un solo bloque
+- Campos vacíos se marcan como **NO DISPONIBLE**
+- Se listan los campos faltantes al final
+- Se indica si la consulta fue exitosa ✅
 
-⚠️ Aviso Legal
-Este proyecto es únicamente con fines educativos.
-El autor NO se hace responsable del uso indebido.
-No se almacena información: todo se ejecuta de forma local.
+---
 
-👨‍💻 Autor
-HEXN – ORC
-Organizac
+## ⚠️ Aviso
 
-GitHub: https://github.com/HEXNCOLOMBIA
+Este proyecto es únicamente con fines **De investigacion **. El autor no se hace responsable del uso indebido. No se almacena información: todo se ejecuta localmente.
 
-<p align="center"> <b>☠️ SISBEN DOX SYSTEM ☠️</b><br> <b>CONTROL · INFORMACIÓN · ANÁLISIS</b> </p> ```
+---
 
+## 👨‍💻 Autor
 
-ión de Investigación
+**HEXN** – ORC (Organización de Investigación)
 
-GitHub: https://github.com/HEXNCOLOMBIA
+---
